@@ -1,0 +1,6 @@
+{
+  "name": "Auditorías LPA: Extractor a Excel",
+  "description": "Extractor inteligente con IA de listas de verificación de Auditoría por Capas LPA (Código E-FSIG 023) a formato Excel oficial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
